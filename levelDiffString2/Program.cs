@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -33,3 +33,16 @@ namespace levelDiffString2
         }
     }
 }
+
+/*
+
+Example
+
+Input:
+aacd
+cdaa
+
+Output:
+8
+
+*/
